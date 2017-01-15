@@ -1,5 +1,5 @@
 # DogEarJS
-Simple JQuery for adding animated dog ears to html elements which turn according to the scroll position
+Simple JQuery Plugin for adding animated dog ears to html elements which turn according to the scroll position.
 Tested with jquery-3.1.1 and jquery-1.7.1
 
 Example usage:
