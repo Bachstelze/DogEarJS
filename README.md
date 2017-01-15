@@ -3,7 +3,7 @@ Simple JQuery for adding animated dog ears to html elements which turn according
 Tested with jquery-3.1.1 and jquery-1.7.1
 
 Example usage:
-'''
+```
 $(document).ready(function() {
   $("h3").spruchband({
       'height' : '15px',
@@ -14,5 +14,5 @@ $(document).ready(function() {
       'background-color' : 'black'
     });
 });
-'''
+```
 TODO: flexible rotation axis
